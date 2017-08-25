@@ -1,0 +1,10 @@
+registrar country data collection
+
+- get all uniq registrars whois xml api whois data
+- get set of known registrars countries from icann website: https://www.icann.org/registrar-reports/accredited-list.html
+  this list is not exhaustive
+- create script to scrape missing registrar countries from: http://www.registrarowl.com
+- use registrar data from .nl registry 
+- Use Google
+- Use fastestwhois.com
+- manual process to identify similar names for the same entity.
